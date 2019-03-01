@@ -1,4 +1,6 @@
-I implemented the task using the following methods in the given order: 
+                  A prototype of a component of a robotic depth perception system for human avoidance
+
+The task is to find the distance between a human and a wall in a corridor using depth camera observations in order to ensure the robots avoid a human in a corridor. I have implemented the task using following methods in the given order: 
 
 1. **Image Pre-Processing:** 
 
